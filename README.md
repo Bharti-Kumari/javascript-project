@@ -1,3 +1,3 @@
 # javascript-project
+Practice project of javascript.
 Author-Bharti kumari
-Practice project of javascript
